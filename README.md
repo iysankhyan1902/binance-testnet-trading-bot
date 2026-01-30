@@ -49,7 +49,6 @@ Build a small Python application that can place orders on **Binance Futures Test
 trading_bot/
 │
 ├── bot/
-│   ├── __init__.py
 │   ├── client.py        # Binance API client wrapper
 │   ├── orders.py        # Order placement logic
 │   ├── validators.py    # Input validation
